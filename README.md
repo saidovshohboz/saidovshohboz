@@ -2,7 +2,7 @@
 
 Frontend dasturchi. Frontend dasturlashni o'rganishni 2023-yil bahor oyidan boshlagan. Hozirda JavaScriptni chuqurroq va uning React kutubxonasida ishlashni o'rganmoqchi bo'lgan dasturchi.
 
-[💼 Portfolio](https://frontendtester.uz) | [✈️ Telegram](https://t.me/ShohbozS) | ✉️ shohbozsaidovv@gmail.com
+[💼 Portfolio]() | [✈️ Telegram](https://t.me/ShohbozS) | ✉️ shohbozsaidovv@gmail.com
 
 ## Texnologiyalar
 
