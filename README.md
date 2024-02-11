@@ -19,7 +19,7 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2023-yil bahor oyidan bosh
 
 | Preview | Ta'rif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/frontendtester/easybank">🧾 Repo</a> - <a href="https://shs-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/saidovshohboz/easybank">🧾 Repo</a> - <a href="https://shs-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
 | 
 
 **<a href="https://frontendtester.uz" target="_blank">💼 Barcha loyihalar</a>**
