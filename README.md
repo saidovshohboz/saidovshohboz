@@ -16,12 +16,27 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2023-yil bahor oyidan bosh
 </p>
 
 ## So'ngi loyihalar
-<img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1583427479%2FChallenges%2Fo4iyywkwjc31epcmsmyo.jpg&w=384&q=75" alt="Easybank" width="250"/>
+
+| Preview | Ta'rif |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/frontendtester/easybank">🧾 Repo</a> - <a href="https://shs-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
+| 
+
+**<a href="https://frontendtester.uz" target="_blank">💼 Barcha loyihalar</a>**
 
 
-## Kontaktlar
+
+## Sahifalar
 
 <p align="left">
 <a href="https://fb.com/shohbozsaidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohbozsaidov" height="30" width="40" /></a>
 <a href="https://instagram.com/shdavronovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shdavronovich" height="30" width="40" /></a>
 </p>
+
+## GitHub Statistikasi
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidovshohboz" alt="frontendtester"></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidovshohboz&show_icons=true" alt="frontendtester"></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=saidovshohboz" alt="frontendtester"></p>
+
