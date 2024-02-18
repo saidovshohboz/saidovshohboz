@@ -24,7 +24,7 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2023-yil bahor oyidan bosh
 ## Sahifalar
 
 <p align="left">
-<a href="https://fb.com/shohbozsaidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohbozsaidov" height="30" width="40" /></a>
+<a href="https://facebook.com/shohbozsaidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohbozsaidov" height="30" width="40" /></a>
 <a href="https://instagram.com/shdavronovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shdavronovich" height="30" width="40" /></a>
 </p>
 
