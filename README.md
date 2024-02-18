@@ -25,7 +25,7 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2023-yil bahor oyidan bosh
 
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=61551812866993&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohbozsaidov" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=1n8ddu4hbfbca&utm_content=suegh2j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shdavronovich" height="30" width="40" /></a>
+<a href="https://www.instagram.com/@shdavronovich." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shdavronovich" height="30" width="40" /></a>
 </p>
 
 ## GitHub Statistikasi
